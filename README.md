@@ -1,5 +1,5 @@
 # exithunger
-Note this project is incomplete and some componentof it are been private 
+Note this project is incomplete and some componentof it are been done private 
 This project was shortlisted for GDSC Solution challenge 2023-24
 A new Flutter project.
 
